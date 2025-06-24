@@ -1,2 +1,4 @@
 # aigl_test_bot
-Bot to test AIGL
+
+This repository contains a small test bot for the [AI Game Launcher](https://github.com/jl-wynen/aigl).
+It is not useful on its own.
